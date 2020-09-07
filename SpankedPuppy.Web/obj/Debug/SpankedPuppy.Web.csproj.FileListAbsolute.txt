@@ -93,3 +93,6 @@ C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Web.Http.W
 C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Net.Http.Formatting.xml
 C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Web.Http.xml
 C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\Autofac.Integration.WebApi.pdb

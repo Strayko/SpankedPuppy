@@ -1,12 +1,23 @@
-﻿using System.Web.Http;
+﻿using System.Collections.Generic;
+using System.Web.Http;
+using SpankedPuppy.Data.Models;
+using SpankedPuppy.Data.Services;
 
 namespace SpankedPuppy.Web.Api
 {
     public class RestaurantsController : ApiController
     {
-        public string Get()
+        private readonly IRestaurantData _db;
+
+        public RestaurantsController(IRestaurantData db)
         {
-            return "Hello, World!";
+            _db = db;
+        }
+        
+        public IEnumerable<Restaurant> Get()
+        {
+            var model = _db.GetAll();
+            return model;
         }
     }
 }

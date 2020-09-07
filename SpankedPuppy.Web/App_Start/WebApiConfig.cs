@@ -1,4 +1,7 @@
-﻿using System.Web.Http;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web.Http;
 
 namespace SpankedPuppy.Web
 {
@@ -10,6 +13,9 @@ namespace SpankedPuppy.Web
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
+
+                // /api/restaurants
+
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
