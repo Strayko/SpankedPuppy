@@ -12,9 +12,9 @@ namespace SpankedPuppy.Data.Services
         {
             restaurants = new List<Restaurant>()
             {
-                new Restaurant { Id = 1, Name = "Name1", Cuisine = CuisineType.Italian },
-                new Restaurant { Id = 2, Name = "Name2", Cuisine = CuisineType.Indian },
-                new Restaurant { Id = 3, Name = "Name3", Cuisine = CuisineType.French },
+                new Restaurant { Id = 1, Name = "Banana Leaf", Cuisine = CuisineType.Italian },
+                new Restaurant { Id = 2, Name = "Pink Sugar ", Cuisine = CuisineType.Indian },
+                new Restaurant { Id = 3, Name = "Pine & Dine ", Cuisine = CuisineType.French },
             };
         }
 

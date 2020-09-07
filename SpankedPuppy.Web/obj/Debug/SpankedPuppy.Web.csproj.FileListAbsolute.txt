@@ -87,3 +87,9 @@ C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\Autofac.Integrati
 C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Web.Http.dll
+C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Web.Http.xml
+C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Web\bin\System.Web.Http.WebHost.xml
