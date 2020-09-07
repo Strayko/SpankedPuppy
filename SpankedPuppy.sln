@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpankedPuppy.Web", "SpankedPuppy.Web\SpankedPuppy.Web.csproj", "{7AE861D5-F8D6-4BD6-B145-DC43E94188D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpankedPuppy.Data", "SpankedPuppy.Data\SpankedPuppy.Data.csproj", "{919F8E55-A692-4322-8CB6-1A0003DE1F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE861D5-F8D6-4BD6-B145-DC43E94188D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE861D5-F8D6-4BD6-B145-DC43E94188D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE861D5-F8D6-4BD6-B145-DC43E94188D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE861D5-F8D6-4BD6-B145-DC43E94188D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919F8E55-A692-4322-8CB6-1A0003DE1F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919F8E55-A692-4322-8CB6-1A0003DE1F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919F8E55-A692-4322-8CB6-1A0003DE1F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919F8E55-A692-4322-8CB6-1A0003DE1F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
