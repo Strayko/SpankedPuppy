@@ -1,6 +1,0 @@
-C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Data\bin\Debug\SpankedPuppy.Data.dll
-C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Data\bin\Debug\SpankedPuppy.Data.pdb
-C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Data\obj\Debug\SpankedPuppy.Data.csprojAssemblyReference.cache
-C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Data\obj\Debug\SpankedPuppy.Data.csproj.CoreCompileInputs.cache
-C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Data\obj\Debug\SpankedPuppy.Data.dll
-C:\Users\moame\RiderProjects\SpankedPuppy\SpankedPuppy.Data\obj\Debug\SpankedPuppy.Data.pdb

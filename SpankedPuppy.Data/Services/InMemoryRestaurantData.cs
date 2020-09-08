@@ -23,5 +23,10 @@ namespace SpankedPuppy.Data.Services
         {
             return restaurants.OrderBy(r => r.Name);
         }
+
+        public Restaurant Get(int id)
+        {
+            return restaurants.FirstOrDefault(r => r.Id == id);
+        }
     }
 }
