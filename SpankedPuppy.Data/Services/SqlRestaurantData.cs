@@ -38,5 +38,12 @@ namespace SpankedPuppy.Data.Services
             entry.State = EntityState.Modified;
             _db.SaveChanges();
         }
+
+        public void Delete(int id)
+        {
+            var restaurant = _db.Restaurants.Find(id);
+            _db.Restaurants.Remove(restaurant);
+            _db.SaveChanges();
+        }
     }
 }
